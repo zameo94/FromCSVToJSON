@@ -1,8 +1,8 @@
-#From CSV to JSON
+# From CSV to JSON
 This script convert a CSV file into a JSON file, drop the empty cells and drop the double value in the same row.
 
-##Usage
-#####Use it is simple: 
+## Usage
+##### Use it is simple: 
 It was thought for to be executed in the console.  
 When you execute it (`php script.php`), the script will ask you the first key, its value and the second key, over that logic:
 
